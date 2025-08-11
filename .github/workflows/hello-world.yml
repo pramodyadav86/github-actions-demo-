@@ -17,4 +17,4 @@ jobs:
         run: echo "👋 Hello from your first GitHub Action!"
 
       - name: current time stamp
-        run: run date
+        run: date
