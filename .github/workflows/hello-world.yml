@@ -1,7 +1,7 @@
 name: Hello World Workflow
 
 # triggers the workflow on every push
-on: [pull_request]
+on: [push]
 
 # groups the steps to be run
 jobs:
